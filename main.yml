@@ -160,7 +160,7 @@ Resources:
 
             # Download latest code, unzip it into /home/ec2-user/app
 
-            wget https://github.com/{{username}}/aws-bootstrap2/archive/master.zip 
+            wget https://github.com/vikasgithub/aws-bootstrap/archive/master.zip 
 
             unzip master.zip
 
